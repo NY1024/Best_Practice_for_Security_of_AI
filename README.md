@@ -11,3 +11,5 @@
 [The Secret Revealer: Generative Model-Inversion Attacks Against Deep Neural Networks](https://arxiv.org/abs/1911.07135). 
 
 ## model extraction attack
+# other resources for run
+[ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox)  
