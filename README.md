@@ -15,4 +15,4 @@
 [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox)  
 [advertorch](https://github.com/BorealisAI/advertorch)  
 [CleverHans](https://github.com/cleverhans-lab/cleverhans/)  
-https://github.com/cleverhans-lab/cleverhans/
+[obfuscated-gradients](https://github.com/anishathalye/obfuscated-gradients)  
